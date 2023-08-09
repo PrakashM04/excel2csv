@@ -139,6 +139,7 @@
       margin: 5px;
       background: #049dd4;
       color:#f0f0f0;
+        cursor: pointer;
     }
     #reload-btn {
         display: block;
@@ -147,6 +148,7 @@
         font-size: 16px;
         background: #008a29;
         color:#f0f0f0;
+            cusor: pointer;
       }
 
     /* Chat Section Styles */
